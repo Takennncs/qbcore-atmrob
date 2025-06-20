@@ -53,3 +53,13 @@ If you have any questions or suggestions, feel free to contact me:
 ## Thank You!
 
 Thank you for using the **takenncs-atm** script! We hope it adds excitement and new opportunities to your FiveM server.
+
+# Ox_inventory - item:
+   ```bash
+    ["krediitkaart"] = {
+        label = "Card",
+        weight = 0.5, 
+        usable = true,
+    description = 'Heavy card tbh :O'
+    },
+
